@@ -1,7 +1,7 @@
 {
-  "name": "starfinder-character-sheet",
+  "name": "pathfinder-character-sheet",
   "version": "1.0.0",
-  "description": "A Starfinder character sheet for Roll20",
+  "description": "A Pathfinder character sheet for Roll20",
   "main": "./bin/sheet.js",
   "scripts": {
     "build": "npm run build-html && npm run build-styles",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/primarilysnark/roll20-starfinder-character-sheet.git"
+    "url": "git+https://github.com/primarilysnark/roll20-pathfinder-character-sheet.git"
   },
   "author": "PrimarilySnark <starkey.joshua@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/primarilysnark/roll20-starfinder-character-sheet/issues"
+    "url": "https://github.com/primarilysnark/roll20-pathfinder-character-sheet/issues"
   },
-  "homepage": "https://github.com/primarilysnark/roll20-starfinder-character-sheet#readme",
+  "homepage": "https://github.com/primarilysnark/roll20-pathfinder-character-sheet#readme",
   "dependencies": {
     "@babel/core": "^7.10.5",
     "babel-eslint": "^10.1.0",
